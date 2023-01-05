@@ -1,0 +1,347 @@
+Codigo de region,Nombre region,Codigo de provincia,Nombre provincia,Codigo comuna,Nombre comuna
+15,Arica y Parinacota,151,Arica,15101,Arica
+15,Arica y Parinacota,151,Arica,15102,Camarones
+15,Arica y Parinacota,152,Parinacota,15201,Putre
+15,Arica y Parinacota,152,Parinacota,15202,General Lagos
+1,TarapacÇ­,11,Iquique,1101,Iquique
+1,TarapacÇ­,11,Iquique,1107,Algo Hospicio
+1,TarapacÇ­,14,Tamarugal,1401,Pozo Almonte
+1,TarapacÇ­,14,Tamarugal,1402,CamiÇña
+1,TarapacÇ­,14,Tamarugal,1403,Colchane
+1,TarapacÇ­,14,Tamarugal,1404,Huara
+1,TarapacÇ­,14,Tamarugal,1405,Pica
+2,Antofagasta,21,Antofagasta,2101,Antofagasta
+2,Antofagasta,21,Antofagasta,2102,Mejillones
+2,Antofagasta,21,Antofagasta,2103,Sierra Gorda
+2,Antofagasta,21,Antofagasta,2104,Taltal
+2,Antofagasta,22,El Loa,2201,Calama
+2,Antofagasta,22,El Loa,2202,OllagÇ¬e
+2,Antofagasta,22,El Loa,2203,San Pedro de Atacama
+2,Antofagasta,23,Tocopilla,2301,Tocopilla
+2,Antofagasta,23,Tocopilla,2302,MarÇğa Elena
+3,Atacama,31,CopiapÇü,3101,CopiapÇü
+3,Atacama,31,CopiapÇü,3102,Caldera
+3,Atacama,32,CopiapÇü,3103,Tierra Amarilla
+3,Atacama,32,ChaÇñaral,3201,ChaÇñaral
+3,Atacama,33,ChaÇñaral,3202,Diego de Almagro
+3,Atacama,33,Huasco,3301,Vallenar
+3,Atacama,33,Huasco,3302,Alto del Carmen
+3,Atacama,33,Huasco,3303,Freirina
+3,Atacama,33,Huasco,3304,Huasco
+4,Coquimbo,41,Elqui,41101,La Serena
+4,Coquimbo,41,Elqui,41102,Coquimbo
+4,Coquimbo,41,Elqui,41103,Andacollo
+4,Coquimbo,41,Elqui,41104,La Higuera
+4,Coquimbo,41,Elqui,41105,Paiguano
+4,Coquimbo,41,Elqui,41106,VicuÇña
+4,Coquimbo,42,Choapa,4201,Illapel
+4,Coquimbo,42,Choapa,4202,Canela
+4,Coquimbo,42,Choapa,4203,Los Vilos
+4,Coquimbo,42,Choapa,4204,Salamanca
+4,Coquimbo,43,LimarÇğ,4301,Ovalle
+4,Coquimbo,43,LimarÇğ,4302,CombarbalÇ­
+4,Coquimbo,43,LimarÇğ,4303,Monte Patria
+4,Coquimbo,43,LimarÇğ,4304,Punitaqui
+4,Coquimbo,43,LimarÇğ,4305,RÇğo Hurtado
+5,ValparaÇğso,51,ValparaÇğso,5101,ValparaÇğso
+5,ValparaÇğso,51,ValparaÇğso,5102,Casablanca
+5,ValparaÇğso,51,ValparaÇğso,5103,ConcÇün
+5,ValparaÇğso,51,ValparaÇğso,5104,Juan FernÇ­ndez
+5,ValparaÇğso,51,ValparaÇğso,5105,PuchuncavÇğ
+5,ValparaÇğso,51,ValparaÇğso,5106,QuilpuÇ¸
+5,ValparaÇğso,51,ValparaÇğso,5107,Quintero
+5,ValparaÇğso,51,ValparaÇğso,5108,Villa Alemana
+5,ValparaÇğso,51,ValparaÇğso,5109,ViÇña del Mar
+5,ValparaÇğso,52,Isla de Pascua,5201,Isla de Pascua
+5,ValparaÇğso,53,Los Andes,5301,Los Andes
+5,ValparaÇğso,53,Los Andes,5302,Calle Larga
+5,ValparaÇğso,53,Los Andes,5303,Rinconada
+5,ValparaÇğso,53,Los Andes,5304,San Esteban
+5,ValparaÇğso,54,Petorca,5401,La Ligua
+5,ValparaÇğso,54,Petorca,5402,Cabildo
+5,ValparaÇğso,54,Petorca,5403,Papudo
+5,ValparaÇğso,54,Petorca,5404,Petorca
+5,ValparaÇğso,54,Petorca,5405,Zapallar
+5,ValparaÇğso,55,Quillota,5501,Quillota
+5,ValparaÇğso,55,Quillota,5502,Calera
+5,ValparaÇğso,55,Quillota,5503,Hijuelas
+5,ValparaÇğso,55,Quillota,5504,La Cruz
+5,ValparaÇğso,55,Quillota,5505,Limache
+5,ValparaÇğso,55,Quillota,5506,Nogales
+5,ValparaÇğso,55,Quillota,5507,OlmuÇ¸
+5,ValparaÇğso,56,San Antonio,5601,San Antonio
+5,ValparaÇğso,56,San Antonio,5602,Algarrobo
+5,ValparaÇğso,56,San Antonio,5603,Cartagena
+5,ValparaÇğso,56,San Antonio,5604,El Quisco
+5,ValparaÇğso,56,San Antonio,5605,El Tabo
+5,ValparaÇğso,56,San Antonio,5606,Santo Domingo
+5,ValparaÇğso,57,San Felipe de Aconcagua,5701,San Felipe
+5,ValparaÇğso,57,San Felipe de Aconcagua,5702,Catemu
+5,ValparaÇğso,57,San Felipe de Aconcagua,5703,Llaillay
+5,ValparaÇğso,57,San Felipe de Aconcagua,5704,Panquehue
+5,ValparaÇğso,57,San Felipe de Aconcagua,5705,Puteando
+5,ValparaÇğso,57,San Felipe de Aconcagua,5706,Santa MarÇğa
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,61,Cachapoal,6101,Rancagua
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,61,Cachapoal,6102,Codegua
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,61,Cachapoal,6103,Coinco
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,61,Cachapoal,6104,Coltauco
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,61,Cachapoal,6105,DoÇñihue
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,61,Cachapoal,6106,Graneros
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,61,Cachapoal,6107,Las Cabras
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,61,Cachapoal,6108,MachalÇğ
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,61,Cachapoal,6109,Malloa
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,61,Cachapoal,6110,Mostazal
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,61,Cachapoal,6111,Oiivar
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,61,Cachapoal,6112,Peumo
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,61,Cachapoal,6113,Pichidegua
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,61,Cachapoal,6114,Quinta de Tilcoco
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,61,Cachapoal,6115,Rengo
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,61,Cachapoal,6116,RequÇğnoa
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,61,Cachapoal,6117,San Vicente
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,62,Cardenal Caro,6201,Pichilemu
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,62,Cardenal Caro,6202,La Estrella
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,62,Cardenal Caro,6203,Liteche
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,62,Cardenal Caro,6204,Marchihue
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,62,Cardenal Caro,6205,Navidad
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,62,Cardenal Caro,6206,Paredones
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,63,Colchagua,6301,San Fernando
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,63,Colchagua,6302,ChÇ¸pica
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,63,Colchagua,6303,Chimbarongo
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,63,Colchagua,6304,Lolol
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,63,Colchagua,6305,Nancagua
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,63,Colchagua,6306,Palmilla
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,63,Colchagua,6307,Peralillo
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,63,Colchagua,6308,Placilla
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,63,Colchagua,6309,Pumanque
+6,RegiÇün del Libertador Gral. Bernardo O'Higgins,63,Colchagua,6310,Santa Cruz
+7,RegiÇün del Maule,71,Talca,7101,Talca
+7,RegiÇün del Maule,71,Talca,7102,ConstituciÇün
+7,RegiÇün del Maule,71,Talca,7103,Curepto
+7,RegiÇün del Maule,71,Talca,7104,Empedrado
+7,RegiÇün del Maule,71,Talca,7105,Maule
+7,RegiÇün del Maule,71,Talca,7106,Pelarco
+7,RegiÇün del Maule,71,Talca,7107,Pencahue
+7,RegiÇün del Maule,71,Talca,7108,RÇğo Claro
+7,RegiÇün del Maule,71,Talca,7109,San Clemente
+7,RegiÇün del Maule,71,Talca,7110,San Rafael
+7,RegiÇün del Maule,71,Talca,7201,Cauquenes
+7,RegiÇün del Maule,71,Talca,7202,Chanco
+7,RegiÇün del Maule,71,Talca,7203,Pelluehue
+7,RegiÇün del Maule,73,CuricÇü,7301,CuricÇü
+7,RegiÇün del Maule,73,CuricÇü,7302,HualaÇñe
+7,RegiÇün del Maule,73,CuricÇü,7303,LicantÇ¸n
+7,RegiÇün del Maule,73,CuricÇü,7304,Molina
+7,RegiÇün del Maule,73,CuricÇü,7305,Rauco
+7,RegiÇün del Maule,73,CuricÇü,7306,Romeral
+7,RegiÇün del Maule,73,CuricÇü,7307,Sagrada Familia
+7,RegiÇün del Maule,73,CuricÇü,7308,Teno
+7,RegiÇün del Maule,73,CuricÇü,7309,VichuequÇ¸n
+7,RegiÇün del Maule,74,Linares,7401,Linares
+7,RegiÇün del Maule,74,Linares,7402,ColbÇ§n
+7,RegiÇün del Maule,74,Linares,7403,LongavÇğ
+7,RegiÇün del Maule,74,Linares,7404,Parral
+7,RegiÇün del Maule,74,Linares,7405,Retiro
+7,RegiÇün del Maule,74,Linares,7406,San Javier
+7,RegiÇün del Maule,74,Linares,7407,Villa Alegre
+7,RegiÇün del Maule,74,Linares,7408,Yerbas Buenas
+8,RegiÇün del BiobÇğo,81,ConcepciÇün,8101,ConcepciÇün
+8,RegiÇün del BiobÇğo,81,ConcepciÇün,8102,Coronel
+8,RegiÇün del BiobÇğo,81,ConcepciÇün,8103,Chiguayante
+8,RegiÇün del BiobÇğo,81,ConcepciÇün,8104,Florida
+8,RegiÇün del BiobÇğo,81,ConcepciÇün,8105,Hualqui
+8,RegiÇün del BiobÇğo,81,ConcepciÇün,8106,Lota
+8,RegiÇün del BiobÇğo,81,ConcepciÇün,8107,Penco
+8,RegiÇün del BiobÇğo,81,ConcepciÇün,8108,San Pedro de la Paz
+8,RegiÇün del BiobÇğo,81,ConcepciÇün,8109,Santa Juana
+8,RegiÇün del BiobÇğo,81,ConcepciÇün,8110,Talcahuano
+8,RegiÇün del BiobÇğo,81,ConcepciÇün,8111,TomÇ¸
+8,RegiÇün del BiobÇğo,81,ConcepciÇün,8112,HualpÇ¸n
+8,RegiÇün del BiobÇğo,82,Arauco,8201,Lebu
+8,RegiÇün del BiobÇğo,82,Arauco,8202,Arauco
+8,RegiÇün del BiobÇğo,82,Arauco,8203,CaÇñete
+8,RegiÇün del BiobÇğo,82,Arauco,8204,Contulmo
+8,RegiÇün del BiobÇğo,82,Arauco,8205,Curanilahue
+8,RegiÇün del BiobÇğo,82,Arauco,8206,Los Alamos
+8,RegiÇün del BiobÇğo,82,Arauco,8207,TirÇ§a
+8,RegiÇün del BiobÇğo,83,Biobio,8301,Los Angeles
+8,RegiÇün del BiobÇğo,83,Biobio,8302,Antuco
+8,RegiÇün del BiobÇğo,83,Biobio,8303,Cabrero
+8,RegiÇün del BiobÇğo,83,Biobio,8304,Laja
+8,RegiÇün del BiobÇğo,83,Biobio,8305,MulchÇ¸n
+8,RegiÇün del BiobÇğo,83,Biobio,8306,Nacimiento
+8,RegiÇün del BiobÇğo,83,Biobio,8307,Negrete
+8,RegiÇün del BiobÇğo,83,Biobio,8308,Quilaco
+8,RegiÇün del BiobÇğo,83,Biobio,8309,Quilleco
+8,RegiÇün del BiobÇğo,83,Biobio,8310,San Rosendo
+8,RegiÇün del BiobÇğo,83,Biobio,8311,Santa BÇ­rbara
+8,RegiÇün del BiobÇğo,83,Biobio,8312,Tucapel
+8,RegiÇün del BiobÇğo,83,Biobio,8313,Yumbel
+8,RegiÇün del BiobÇğo,83,Biobio,8314,Alto BiobÇğo
+8,RegiÇün del BiobÇğo,84,Ç?uble,8401,ChillÇ­n
+8,RegiÇün del BiobÇğo,84,Ç?uble,8402,Bulnes
+8,RegiÇün del BiobÇğo,84,Ç?uble,8403,Cobquecura
+8,RegiÇün del BiobÇğo,84,Ç?uble,8404,Coelemu
+8,RegiÇün del BiobÇğo,84,Ç?uble,8405,Coihueco
+8,RegiÇün del BiobÇğo,84,Ç?uble,8406,ChillÇ­n Viejo
+8,RegiÇün del BiobÇğo,84,Ç?uble,8407,El Carmen
+8,RegiÇün del BiobÇğo,84,Ç?uble,8408,Ninhue
+8,RegiÇün del BiobÇğo,84,Ç?uble,8409,Ç?inhue
+8,RegiÇün del BiobÇğo,84,Ç?uble,8410,Ç?oquÇ¸n
+8,RegiÇün del BiobÇğo,84,Ç?uble,8411,Pemuco
+8,RegiÇün del BiobÇğo,84,Ç?uble,8412,Pinto
+8,RegiÇün del BiobÇğo,84,Ç?uble,8413,Portezuelo
+8,RegiÇün del BiobÇğo,84,Ç?uble,8414,QuillÇün
+8,RegiÇün del BiobÇğo,84,Ç?uble,8415,Quirihue
+8,RegiÇün del BiobÇğo,84,Ç?uble,8416,RÇ­nquil
+8,RegiÇün del BiobÇğo,84,Ç?uble,8417,San Carlos
+8,RegiÇün del BiobÇğo,84,Ç?uble,8418,San FabiÇ­n
+8,RegiÇün del BiobÇğo,84,Ç?uble,8419,San Ignacio
+8,RegiÇün del BiobÇğo,84,Ç?uble,8420,San NicolÇ­s
+8,RegiÇün del BiobÇğo,84,Ç?uble,8421,Treguaco
+9,RegiÇün de La AraucanÇğa,91,CautÇğn,9101,Temuco
+9,RegiÇün de La AraucanÇğa,91,CautÇğn,9102,Carahue
+9,RegiÇün de La AraucanÇğa,91,CautÇğn,9103,Cunco
+9,RegiÇün de La AraucanÇğa,91,CautÇğn,9104,Currarrehue
+9,RegiÇün de La AraucanÇğa,91,CautÇğn,9105,Freire
+9,RegiÇün de La AraucanÇğa,91,CautÇğn,9106,Galvarino
+9,RegiÇün de La AraucanÇğa,91,CautÇğn,9107,Gorbea
+9,RegiÇün de La AraucanÇğa,91,CautÇğn,9108,Lautaro
+9,RegiÇün de La AraucanÇğa,91,CautÇğn,9109,Loncoche
+9,RegiÇün de La AraucanÇğa,91,CautÇğn,9110,Melipeuco
+9,RegiÇün de La AraucanÇğa,91,CautÇğn,9111,Nueva Imperial
+9,RegiÇün de La AraucanÇğa,91,CautÇğn,9112,Padre Las Casas
+9,RegiÇün de La AraucanÇğa,91,CautÇğn,9113,Perquenco
+9,RegiÇün de La AraucanÇğa,91,CautÇğn,9114,PitrufquÇ¸n
+9,RegiÇün de La AraucanÇğa,91,CautÇğn,9115,PucÇün
+9,RegiÇün de La AraucanÇğa,91,CautÇğn,9116,Saavedra
+9,RegiÇün de La AraucanÇğa,91,CautÇğn,9117,Teodoro Schmift
+9,RegiÇün de La AraucanÇğa,91,CautÇğn,9118,ToltÇ¸n
+9,RegiÇün de La AraucanÇğa,91,CautÇğn,9119,VilcÇ§n
+9,RegiÇün de La AraucanÇğa,91,CautÇğn,9120,Villarica
+9,RegiÇün de La AraucanÇğa,91,CautÇğn,9121,Cholchol
+9,RegiÇün de La AraucanÇğa,92,Malleco,9201,Angol
+9,RegiÇün de La AraucanÇğa,92,Malleco,9202,Collipulli
+9,RegiÇün de La AraucanÇğa,92,Malleco,9203,CuracautÇğn
+9,RegiÇün de La AraucanÇğa,92,Malleco,9204,Ercilla
+9,RegiÇün de La AraucanÇğa,92,Malleco,9205,Lonquimay
+9,RegiÇün de La AraucanÇğa,92,Malleco,9206,Los Sauces
+9,RegiÇün de La AraucanÇğa,92,Malleco,9207,Lumaco
+9,RegiÇün de La AraucanÇğa,92,Malleco,9208,PurÇ¸n
+9,RegiÇün de La AraucanÇğa,92,Malleco,9209,Renaico
+9,RegiÇün de La AraucanÇğa,92,Malleco,9210,TraiguÇ¸n
+9,RegiÇün de La AraucanÇğa,92,Malleco,9211,Victoria
+14,RegiÇün de Los RÇğos,141,Valdivia,14101,Valdivia
+14,RegiÇün de Los RÇğos,141,Valdivia,14102,Corral
+14,RegiÇün de Los RÇğos,141,Valdivia,14103,Lanco
+14,RegiÇün de Los RÇğos,141,Valdivia,14104,Los Lagos
+14,RegiÇün de Los RÇğos,141,Valdivia,14105,MÇ­fil
+14,RegiÇün de Los RÇğos,141,Valdivia,14106,Mariquina
+14,RegiÇün de Los RÇğos,141,Valdivia,14107,Paillaco
+14,RegiÇün de Los RÇğos,141,Valdivia,14108,Panguipulli
+14,RegiÇün de Los RÇğos,142,Ranco,14201,La UniÇün
+14,RegiÇün de Los RÇğos,142,Ranco,14202,Futrono
+14,RegiÇün de Los RÇğos,142,Ranco,14203,Lago Ranco
+14,RegiÇün de Los RÇğos,142,Ranco,14204,RÇğo Bueno
+10,RegiÇün de Los Lagos,101,Llanquihue,10101,Puerto Montt
+10,RegiÇün de Los Lagos,101,Llanquihue,10102,Calbuco
+10,RegiÇün de Los Lagos,101,Llanquihue,10103,CochamÇü
+10,RegiÇün de Los Lagos,101,Llanquihue,10104,Fresia
+10,RegiÇün de Los Lagos,101,Llanquihue,10105,Frutillar
+10,RegiÇün de Los Lagos,101,Llanquihue,10106,Los Muermos
+10,RegiÇün de Los Lagos,101,Llanquihue,10107,Llanquihue
+10,RegiÇün de Los Lagos,101,Llanquihue,10108,MaullÇğn
+10,RegiÇün de Los Lagos,101,Llanquihue,10109,Puerto Varas
+10,RegiÇün de Los Lagos,102,ChiloÇ¸,10201,Castro
+10,RegiÇün de Los Lagos,102,ChiloÇ¸,10202,Ancud
+10,RegiÇün de Los Lagos,102,ChiloÇ¸,10203,Chonchi
+10,RegiÇün de Los Lagos,102,ChiloÇ¸,10204,Curaco de VÇ¸lez
+10,RegiÇün de Los Lagos,102,ChiloÇ¸,10205,Dalcahue
+10,RegiÇün de Los Lagos,102,ChiloÇ¸,10206,PuqueldÇün
+10,RegiÇün de Los Lagos,102,ChiloÇ¸,10207,QueilÇ¸n
+10,RegiÇün de Los Lagos,102,ChiloÇ¸,10208,QuellÇün
+10,RegiÇün de Los Lagos,102,ChiloÇ¸,10209,Quemchi
+10,RegiÇün de Los Lagos,102,ChiloÇ¸,10210,Quinchao
+10,RegiÇün de Los Lagos,103,Osorno,10301,Osorno
+10,RegiÇün de Los Lagos,103,Osorno,10302,Puerto Octay
+10,RegiÇün de Los Lagos,103,Osorno,10303,Purranque
+10,RegiÇün de Los Lagos,103,Osorno,10304,Puyehue
+10,RegiÇün de Los Lagos,103,Osorno,10305,RÇğo Negro
+10,RegiÇün de Los Lagos,103,Osorno,10306,San Juan de la Costa
+10,RegiÇün de Los Lagos,103,Osorno,10307,San Pablo
+10,RegiÇün de Los Lagos,104,Palena,10401,ChaitÇ¸n
+10,RegiÇün de Los Lagos,104,Palena,10402,FutaleufÇ§
+10,RegiÇün de Los Lagos,104,Palena,10403,HualaihuÇ¸
+10,RegiÇün de Los Lagos,104,Palena,10404,Palena
+11,RegiÇün AisÇ¸n del Gral. Carlos IbÇ­Çñez del Campo,111,Coihaique,11101,Coihaique
+11,RegiÇün AisÇ¸n del Gral. Carlos IbÇ­Çñez del Campo,111,Coihaique,11102,Lago Verde
+11,RegiÇün AisÇ¸n del Gral. Carlos IbÇ­Çñez del Campo,112,AisÇ¸n,11201,AisÇ¸n
+11,RegiÇün AisÇ¸n del Gral. Carlos IbÇ­Çñez del Campo,112,AisÇ¸n,11202,Cisnes
+11,RegiÇün AisÇ¸n del Gral. Carlos IbÇ­Çñez del Campo,112,AisÇ¸n,11203,Guaitecas
+11,RegiÇün AisÇ¸n del Gral. Carlos IbÇ­Çñez del Campo,113,CapitÇ­n Prat,11301,Cochrane
+11,RegiÇün AisÇ¸n del Gral. Carlos IbÇ­Çñez del Campo,113,CapitÇ­n Prat,11302,O'Higgins
+11,RegiÇün AisÇ¸n del Gral. Carlos IbÇ­Çñez del Campo,113,CapitÇ­n Prat,11303,Tortel
+11,RegiÇün AisÇ¸n del Gral. Carlos IbÇ­Çñez del Campo,114,General Carrera,11401,Chile Chico
+11,RegiÇün AisÇ¸n del Gral. Carlos IbÇ­Çñez del Campo,114,General Carrera,11402,RÇğo IbÇ­Çñez
+12,RegiÇün de Magallanes y de la AntÇ­rtica Chilena,121,Magallanes,12101,Punta Arenas
+12,RegiÇün de Magallanes y de la AntÇ­rtica Chilena,121,Magallanes,12101,Laguna Blanca
+12,RegiÇün de Magallanes y de la AntÇ­rtica Chilena,121,Magallanes,12103,RÇğo Verde
+12,RegiÇün de Magallanes y de la AntÇ­rtica Chilena,121,Magallanes,12104,San Gregorio
+12,RegiÇün de Magallanes y de la AntÇ­rtica Chilena,122,AntÇ­rtica Chilena,12201,Cabo de Hornos
+12,RegiÇün de Magallanes y de la AntÇ­rtica Chilena,122,AntÇ­rtica Chilena,12202,AntÇ­rtica
+12,RegiÇün de Magallanes y de la AntÇ­rtica Chilena,123,Tierra del Fuego,12301,Provenir
+12,RegiÇün de Magallanes y de la AntÇ­rtica Chilena,123,Tierra del Fuego,12302,Primavera
+12,RegiÇün de Magallanes y de la AntÇ­rtica Chilena,123,Tierra del Fuego,12303,Timaukel
+12,RegiÇün de Magallanes y de la AntÇ­rtica Chilena,124,Ultima Esperanza,12401,Natales
+12,RegiÇün de Magallanes y de la AntÇ­rtica Chilena,124,Ultima Esperanza,12402,Torres del Paine
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13101,Santiago
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13102,Cerrillos
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13103,Cerro Navia
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13104,ConchalÇğ
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13105,El Bosque
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13106,EstaciÇün Central
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13107,Huechuraba
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13108,Independencia
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13109,La Cisterna
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13110,La Florida
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13111,La Granja
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13112,La Pintana
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13113,La Reina
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13114,Las Condes
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13115,Lo Barnochea
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13116,Lo Espejo
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13117,Lo Prado
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13118,Macul
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13119,MaipÇ§
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13120,Ç?uÇñoa
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13121,Pedro Aguirre Cerda
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13122,PeÇñalolÇ¸n
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13123,Providencia
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13124,Pudahuel
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13125,Quilicura
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13126,Quinta Normal
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13127,Recoleta
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13128,Renca
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13129,San JoaquÇğn
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13130,San Miguel
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13131,San RamÇün
+13,RegiÇün Metropolitana de Santiago,131,Santiago,13132,Vitacura
+13,RegiÇün Metropolitana de Santiago,132,Cordillera,13201,Puente Alto
+13,RegiÇün Metropolitana de Santiago,132,Cordillera,13202,Pirque
+13,RegiÇün Metropolitana de Santiago,132,Cordillera,13203,San JosÇ¸ de Maipo
+13,RegiÇün Metropolitana de Santiago,133,Chacabuco,13301,Colina
+13,RegiÇün Metropolitana de Santiago,133,Chacabuco,13302,Lampa
+13,RegiÇün Metropolitana de Santiago,133,Chacabuco,13303,Tiltil
+13,RegiÇün Metropolitana de Santiago,134,Maipo,13401,San Bernardo
+13,RegiÇün Metropolitana de Santiago,134,Maipo,13402,Buin
+13,RegiÇün Metropolitana de Santiago,134,Maipo,13403,Calera de Tango
+13,RegiÇün Metropolitana de Santiago,134,Maipo,13404,Paine
+13,RegiÇün Metropolitana de Santiago,135,Melipilla,13501,Melipilla
+13,RegiÇün Metropolitana de Santiago,135,Melipilla,13502,AlhuÇ¸
+13,RegiÇün Metropolitana de Santiago,135,Melipilla,13503,CuracavÇğ
+13,RegiÇün Metropolitana de Santiago,135,Melipilla,13504,MarÇğa Pinto
+13,RegiÇün Metropolitana de Santiago,135,Melipilla,13505,San Pedro
+13,RegiÇün Metropolitana de Santiago,136,Talagante,13601,Talagante
+13,RegiÇün Metropolitana de Santiago,136,Talagante,13602,El Monte
+13,RegiÇün Metropolitana de Santiago,136,Talagante,13603,Isla de Maipo
+13,RegiÇün Metropolitana de Santiago,136,Talagante,13604,Padre Hurtado
+13,RegiÇün Metropolitana de Santiago,136,Talagante,13605,PeÇñaflor
